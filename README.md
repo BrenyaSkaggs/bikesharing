@@ -27,7 +27,7 @@ days with the start of the workday and the end of the work day being the most ac
 
 
 
-* Trips by Gender (Weekday per Hour)*
+*Trips by Gender (Weekday per Hour)*
 
 ![This is an image](https://github.com/BrenyaSkaggs/bikesharing/blob/main/Resources/Trips%20by%20Gender-%20weekday%20per%20hour.png)
 
