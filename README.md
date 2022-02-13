@@ -15,6 +15,7 @@ Using August 2019 NYC CitiBike Data to see if creating a similar idea in Des Moi
 ## Research 
 
 
+
 *Trips by Weekday per Hour*
 
 ![This is an image](https://github.com/BrenyaSkaggs/bikesharing/blob/main/Resources/Trips%20by%20Weekday%20per%20Hour.png)
@@ -24,11 +25,15 @@ days with the start of the workday and the end of the work day being the most ac
 
 
 
-* Trips by Gender (Weekday per Hour)
+
+
+* Trips by Gender (Weekday per Hour)*
 
 ![This is an image](https://github.com/BrenyaSkaggs/bikesharing/blob/main/Resources/Trips%20by%20Gender-%20weekday%20per%20hour.png)
 
 Males have the highest number of bike trips througout the week compared to females. 
+
+
 
 
 
@@ -38,6 +43,8 @@ Males have the highest number of bike trips througout the week compared to femal
 
 This shows the activity of bike trips throughtout the week for gender and both customer and subscribers. 
 We can see that Male subscribers have the most bike trips throughout the week.
+
+
 
 
 
@@ -53,15 +60,19 @@ The graphs above list the number of bikes checked out by both gender and user wi
 
 
 
+
+
 *Customer vs Subscriber and Number of Riders*
 
 ![This is an image](https://github.com/BrenyaSkaggs/bikesharing/blob/main/Resources/Two%20Graphs.png)
 
 This shows the breakdown of both customer vs subscribers and number of riders. 
+
 *There are a total of 2,344,224 riders
-    * 588,431 Females
-    * 1,530,272 Males
-    * 225521 Unknown
+
+    *588,431 Females
+    *1,530,272 Males
+    *225521 Unknown
 
 * There are 1,900,359 subscribers and 433,865 customers.    
 
