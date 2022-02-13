@@ -59,9 +59,9 @@ The graphs above list the number of bikes checked out by both gender and user wi
 
 This shows the breakdown of both customer vs subscribers and number of riders. 
 *There are a total of 2,344,224 riders
-    - 588,431 Females
-    - 1,530,272 Males
-    - 225521 Unknown
+    * 588,431 Females
+    * 1,530,272 Males
+    * 225521 Unknown
 
 * There are 1,900,359 subscribers and 433,865 customers.    
 
